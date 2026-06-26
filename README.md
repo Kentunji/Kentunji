@@ -10,6 +10,7 @@ Particularly interested in where LLM reasoning meaningfully improves security wo
 
 #### 🎓 Education
 
+- **M.sc. Security and Network Engineering** — Innopolis University, Russia 
 - **B.Eng. Computer Engineering** — Bells University of Technology, Nigeria 
 
 #### 💼 Background
