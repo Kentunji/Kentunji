@@ -1,4 +1,4 @@
-# Kehinde Adetunji
+# Kehinde Tosin Adetunji
 
 **Security engineer. Detection engineering, DevSecOps, and applied AI security.**
 
